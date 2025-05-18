@@ -10,8 +10,8 @@ title: BMTE Research group
 email: mchaib@unal.edu.co
 description: > # this means to ignore newlines until "baseurl:"
   Website of the BMTE Research group.
-baseurl: ""
-url: "https://BryanWV/test.github.io"
+baseurl: "/test"
+url: https://BryanWV.github.io
 
 include:
   - .htaccess
