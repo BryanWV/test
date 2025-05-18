@@ -1,3 +1,4 @@
+
 To have a clone of the website in your local PC, it is required to:
 * Install Ruby
 * Make a clone of the repo using git clone *link_of_repo*
