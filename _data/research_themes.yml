@@ -1,0 +1,44 @@
+- title: "Distinct bacteria display genus and species-specific associations with mycobionts in paramo lichens in Colombia"
+  key: "lichen" #TODO: Investigate what this does
+  hasimage: 1
+  width: 50%
+  image: cvar.png # TODO: Modify these images
+  description: Lichens are complex symbiotic systems where fungi interact with an extracellular arrangement of one or more photosynthetic partners and an indeterminate number of other microbes. Recently, specific lichen–microbial community associations have been proposed. In this study, we aimed to characterize the differences in bacteria associated with closely related lichens, under a defined set of environmental conditions in Colombian paramos. Our goal was to determine if there is a correlation between microbiota and host divergence in lichen species belonging to the genus Sticta. We found that specific microbiota are defined by their mycobiont at the genus level. Further, distinct bacterial families show differences among the three studied genera, and specific amplicon sequence variants further discriminate among lichen species within each genus. A geographic component also determines the composition of these microbial communities among lichen species. Our functional analysis revealed that fungal partners play a key role in synthesizing complex polysaccharides, while bacterial-derived antioxidants and photoprotective mechanisms contribute to desiccation tolerance in lichens. These insights highlight the complex interactions within lichen symbioses that could be relevant in environments such as the paramo ecosystem.
+  authors: Maryam Chaib De Mares, Emerson Arciniegas Castro, Maria Alejandra Ulloa, etc.
+  year: 2025
+  tag: 10001
+  highlight: 1
+  news1:
+  news2: 
+  long: 0
+
+- title: "Comparative Metagenomic Analysis of Biosynthetic Diversity across Sponge Microbiomes Highlights Metabolic Novelty, Conservation, and Diversification"
+  key: "sponge"
+  hasimage: 1
+  width: 70%
+  image: FedML2.png
+  description:  "Marine sponges and their microbial symbiotic communities are rich sources of diverse natural products (NPs) that often display biological activity, yet little is known about the global distribution of NPs and the symbionts that produce them. Since the majority of sponge symbionts remain uncultured, it is a challenge to characterize their NP biosynthetic pathways, assess their prevalence within the holobiont, and measure the diversity of NP biosynthetic gene clusters (BGCs) across sponge taxa and environments. Here, we explore the microbial biosynthetic landscapes of three high-microbial-abundance (HMA) sponges from the Atlantic Ocean and the Mediterranean Sea. This data set reveals striking novelty, with <1% of the recovered gene cluster families (GCFs) showing similarity to any characterized BGC. When zooming in on the microbial communities of each sponge, we observed higher variability of specialized metabolic and taxonomic profiles between sponge species than within species. Nonetheless, we identified conservation of GCFs, with 20% of sponge GCFs being shared between at least two sponge species and a GCF core comprised of 6% of GCFs shared across all species. Within this functional core, we identified a set of widespread and diverse GCFs encoding nonribosomal peptide synthetases that are potentially involved in the production of diversified ether lipids, as well as GCFs putatively encoding the production of highly modified proteusins. The present work contributes to the small, yet growing body of data characterizing NP landscapes of marine sponge symbionts and to the cryptic biosynthetic potential contained in this environmental niche."
+  authors: Catarina Loureiro, Anastasia Galani, Asimenia Gavriilidou, etc.
+  year: 2022
+  tag: 10003
+  highlight: 1
+  news1:
+  news2: 
+  long: 0
+
+
+- title: "HI SEL Latin America: Adaptation and Initial Validation of an Instrument to Evaluate Social and Emotional Learning Outcomes"
+  key: "adaptation"
+  hasimage: 1
+  width: 60%
+  image: GCM.jpg
+  description:  "Character virtues (CV) and social and emotional learning (SEL) are often used to refer to a broad range of strengths and capacities that help young people thrive. Although we know much about how school and community programs can impact CV and SEL in the Global North, we know little about this in Latin America. Measurement instruments for CV and SEL in Latin America are designed for large-scale studies that give little guidance to small programs."
+  authors: Angélica Becerra Rojas, Nicolás García Mejía, Geimy Tatiana Velandia Villanueva, etc
+  year: 2022
+  tag: 10002
+  highlight: 1
+  news1:
+  news2: 
+  long: 0
+
+# TODO: Ask if adding more research papers from orcid
